@@ -1,4 +1,0 @@
-package MySQLDaoImpl
-
-class MySQLDaoImpl {
-}
